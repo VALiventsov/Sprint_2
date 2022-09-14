@@ -20,5 +20,7 @@ public class Main {
         System.out.println(pack.sumPurchase() - pack.sumPurchaseDiscount());
         System.out.print("Суммарная цена всех вегетарианских продуктов в корзине: ");
         System.out.println(pack.sumPurchaseVegetarian());
+        System.out.print("Сколько можно это терпеть");
+        //да мать твою!
     }
 }
